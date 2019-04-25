@@ -6,5 +6,9 @@ module FormsLab
    get '/' do 
      "Welcome to the Nested Forms Lab!"
   end
+  
+  get '/new' do 
+    
+  end 
 end
 end 
