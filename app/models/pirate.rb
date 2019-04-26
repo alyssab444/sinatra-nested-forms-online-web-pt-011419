@@ -13,4 +13,4 @@ class Pirate
     @@all
   end 
 
- end 	end 
+ end 	
